@@ -12,6 +12,4 @@ added each of the six header styles to observe how they appear
 ``` javascript
 var myVar = "Goodbye world!";
 ```
-- [ ] the step
-- [ ] did not 
-- [ ] update again
+- [ ] a
