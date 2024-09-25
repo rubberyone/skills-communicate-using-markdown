@@ -12,10 +12,6 @@ added each of the six header styles to observe how they appear
 ``` javascript
 var myVar = "Goodbye world!";
 ```
-
-task list:
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introudce myself to the world
-
-added a task list
+- [ ] the step
+- [ ] did not 
+- [ ] update again
