@@ -7,5 +7,5 @@
 
 added each of the six header styles to observe how they appear
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![The One Ring](https://t3.ftcdn.net/jpg/05/79/48/64/360_F_579486429_glekLXeqvxulSAndrHxLVWBcD1XxJmSt.jpg)
+
